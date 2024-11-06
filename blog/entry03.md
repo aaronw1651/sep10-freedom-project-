@@ -14,7 +14,7 @@
 parts of my web page.
 
 ## Challenges
-
+## Something that I often struggle with is being unorganized, either in my personal life or working, when I'm in the zone. I don't think about the later, so often when I write my CSS, it's often unorganized, which later led me to be confused and made it hard for me to maintain order in my style sheet. My CSS lacks a clear structure as most of the class names are generic and don't provide any context what so ever. I've learned that I should use more descriptive names that help others understand. While also helping me maintain my style sheet. This right here is an example of how my CSS used to look like before. I have outside help to help me improve.
 ```
 body {
     font-family: Arial, sans-serif;
@@ -59,3 +59,5 @@ p {
  200px;
     margin-bottom: 20px;
 }
+
+
