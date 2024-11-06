@@ -114,7 +114,7 @@ p {
     margin-bottom: 20px;
 }
 ```
-### Although I've heard of my teacher'c comments before, I've never really grasped the significance of them. CSS comments aid in explaining the purpose of every style sheet or every piece of code. I considered "a waste of time". Has actually come to use for me as it helps me grasp the concept of CSS and how to organize it. To not just help me understand but for peers to understand the code, even if they didn't write it.
+## Although I've heard of my teacher'c comments before, I've never really grasped the significance of them. CSS comments aid in explaining the purpose of every style sheet or every piece of code. I considered "a waste of time". Has actually come to use for me as it helps me grasp the concept of CSS and how to organize it. To not just help me understand but for peers to understand the code, even if they didn't write it.
 
 ## Key Takeaway
-The importance of organization and clarity in CSS is that by following the principles, you can improve the readability, maintainability, and overall quality of your code. Don't make the mistake that I made of skipping over certain aspects of CSS because you don't believe it could be useful for you.
+## The importance of organization and clarity in CSS is that by following the principles, you can improve the readability, maintainability, and overall quality of your code. Don't make the mistake that I made of skipping over certain aspects of CSS because you don't believe it could be useful for you.
