@@ -62,7 +62,7 @@ p {
 }
 
 ```
-### I discovered that my CSS had odd spacing and indentation when I initially reviewed it following peer review. It frequently makes it more difficult for others to read and comprehend the code. I spoke with a friend about CSS, and he suggested that I start using comments since they help to explain the objective of each style or piece of code I've heard about my teacher's comments before, but I've never understood their significance. It was "a waist of time" as I thought, when my friend showed me their CSS. It was understandable and clear. I decided to totally rewrite my CSS because of it.
+### I discovered that my CSS had odd spacing and indentation when I initially reviewed it following peer review. It frequently makes it more difficult for others to read and comprehend the code. I spoke with a friend about CSS, and he suggested that I start using comments since they help to explain the objective of each style or piece of code I've heard about my teacher's comments before, but I've never understood their significance. It was "a waste of time" as I thought, when my friend showed me their CSS. It was understandable and clear. I decided to totally rewrite my CSS because of it.
 ## Solution
 ```
 Ex-
