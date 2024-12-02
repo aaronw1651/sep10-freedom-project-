@@ -24,4 +24,10 @@ HyperText Markup Language is referred to as HTML. Similar to blueprints for a st
 <body>
   <h1>Welcome to My Website!</h1>
   <p>This is a simple web page created using HTML.</p>
+imple web page created using HTML.</p>
+  <img src="image.jpg" alt="Image description">
+  <a href="https://www.example.com">Visit Example.com</a>
+</body>
+</html>
    ```
+
