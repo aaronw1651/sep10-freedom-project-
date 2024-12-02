@@ -29,5 +29,6 @@ imple web page created using HTML.</p>
   <a href="https://www.example.com">Visit Example.com</a>
 </body>
 </html>
-   ```
+```
+## Opening this up the first time i was confused to say the least i had no clue what to do,  i searched everywhere on the internet to help me find answer, on how to do things, to make my webpage presentable. Then i found w3schools.com, This website helped me find and understand each element that can be in use for me and it gave me examples that io can use.
 
