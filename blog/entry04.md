@@ -6,16 +6,18 @@
 ## Context
 HyperText Markup Language is referred to as HTML. Similar to blueprints for a structure's outline, HTML serves as the blueprint for websites. the language model intructs your computer on how to set up your webpage. In order to full comprehend this potent tool, I required a guide. I've became proficient with HTML elements thanks to FreeCodeCamp's note taking. As i gained experiences, I was able to create simple webpages with the essebtial components.
 * ## Headings
- * `<h1>` to `<h6>`:Use these tags to create headings of different sizes.
+ * `<h1>` to `<h6>`:Use these tags to create headings of different sizes. This is used for title and subtitles
  * Example <h1> This a big heading  </h1>
 ## Paragraphs
-* `<p>`: Use this tag to create paragraphs of text.
-* Example: <p> This is a paragraph of text.</p>
+* `<p>`: Use this tag to create paragraphs of text. It defines blocks of text.
+* Example:  <p> This is a paragraph of text.</p> 
 
 ## Links
-*`<a>`: used  this tag to create links to other pages or websites.
+* `<a>`: Use this tag to create  link to other pages or websites. With hred attribute specifying the linked URL-Create clickable link to other pages or websites\
+* Example < a href="https://ww.example.com">Visit Example.com</a>
 ## Images
 * `<img>`: Use this tag to create links to your page.
+* Example: <img src="image.jpg" alt="image description'>
 ## A simple HTML Example
 ```html
 <!DOCTYPE html>
