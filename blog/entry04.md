@@ -6,9 +6,14 @@
 For this assignment, I had to investigate a web framework that will ease up the development of Virtual Reality experience, directly in the browser, so I picked A-Frame. The thing that attracted me to A-Frame was the promise of simplicity and never having to leave the world of the web, of using technologies I already know like HTML.
 
 Why A-Frame? SASS and jQuery were other options, but the relative ease of creating 3D environments with a few lines of HTML is an opportunity not often matched. The functionality of cross-device, cross-platform compatibility, and more links to a vested virtual community sold me entirely to stick with A-Frame. And the capacity for rapid prototyping that would take less time to accomplish for my immediate needs at this time rendered A-Frame the possibility.
-What I Tinked With/Where I Started From.
+What I Tinked With/Where I Started From. 
 
-I essentially tinkered from an A-frame example that just had a scene with a box, sphere, and cylinder. I went from there as I was experimenting with different attributes/components.<img width="1415" alt="Screenshot 2025-03-02 at 8 03 31 PM" src="https://github.com/user-attachments/assets/887d3624-68f1-482d-9cf1-d34586487969" />
+Original version;
+<img width="1439" alt="Screenshot 2025-03-02 at 8 05 31 PM" src="https://github.com/user-attachments/assets/a10f74de-4ea2-4391-b215-0c518407c443" />
+
+I essentially tinkered from an A-frame example that just had a scene with a box, sphere, and cylinder. I went from there as I was experimenting with different attributes/components.
+My Tinkered version ;
+<img width="1415" alt="Screenshot 2025-03-02 at 8 03 31 PM" src="https://github.com/user-attachments/assets/887d3624-68f1-482d-9cf1-d34586487969" />
 
 
 Geometric Shapes: I created additional cones and toruses in the render. I changed their position along with the rotation, radius, and height settings to see what they would do.
