@@ -8,7 +8,8 @@ For this assignment, I had to investigate a web framework that will ease up theâ
 Why A-Frame? SASS and jQuery were other options, but the relative ease of creating 3D environments with a few lines of HTML is an opportunity not often matched. The functionality of cross-device, cross-platform compatibility, and more links to a vested virtual community sold me entirely to stick with A-Frame. And the capacity for rapid prototyping that would take less time to accomplish for my immediate needs at this time rendered A-Frame the possibility.
 What I Tinked With/Where I Started From.
 
-I essentially tinkered from an A-frame example that just had a scene with a box, sphere, and cylinder. I went from there as I was experimenting with different attributes/components.
+I essentially tinkered from an A-frame example that just had a scene with a box, sphere, and cylinder. I went from there as I was experimenting with different attributes/components.<img width="1415" alt="Screenshot 2025-03-02 at 8 03 31â€¯PM" src="https://github.com/user-attachments/assets/887d3624-68f1-482d-9cf1-d34586487969" />
+
 
 Geometric Shapes: I created additional cones and toruses in the render. I changed their position along with the rotation, radius, and height settings to see what they would do.
 
