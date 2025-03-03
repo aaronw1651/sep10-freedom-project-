@@ -50,6 +50,8 @@ Basic understanding of 3D modeling, lighting, and material properties.
 
 Critical thinking from understanding how to troubleshoot and learning the best practices of experimentation.
 
+With the sources added within this write-up, it up further my skills and knowledge about Html, the website that really helped me with this task was W3Schools, as i can learn a specfic code, plus,  the website allows me to try it myself so i can get a better understanding of it.
+
 Before, I've always had a very professional attitude—from addressing my process to clean documentation and annotated code to crediting research when due. I've always been a keen learner and loved to "play" with any new technology.
 
 
