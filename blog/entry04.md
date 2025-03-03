@@ -12,6 +12,14 @@ The only challenge aside from the ease of use from A-Frame stemmed from the enti
 
 A-Frame official website: https://aframe.io/
 
+MDN Web Docs (Mozilla Developer Network):
+https://developer.mozilla.org/en-US/docs/Web/HTML - A great source of web development information along with complete HTML documentation.
+
+W3Schools: https://www.w3schools.com/html/ - Easy to understand tutorials and examples for the absolute beginner
+
+https://www.freecodecamp.org/learn/2022/responsive-web-design/ - this website you provided us to better learning Html and css, but solving challenges on our own.
+
+
 Takeaways:
   Participation:
 
