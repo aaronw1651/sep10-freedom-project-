@@ -50,7 +50,7 @@ New inspiration learned through A-Frame documentation.
 
 
 ## Skills Acquired ;
-Web development HTML/Javascript skills to create an interactive experience.
+Web development HTML skills to create an interactive experience.
 
 Basic understanding of 3D modeling, lighting, and material properties.
 
