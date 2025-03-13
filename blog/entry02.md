@@ -1,5 +1,5 @@
 # Entry 2
-##### X/X/XX
+Aaron Williams 
 ## Reflection:
 This unit on GitHub was incredibly valuable for learning how to collaborate on code. I now understand how to work effectively with others, which speeds up the development process. Key commands I learned were git add, git commit, and git push. These are essential for managing changes and updating repositories.
 ## Challenges
@@ -7,7 +7,7 @@ One challenge I faced was consistently navigating to the correct directory using
 Another point of confusion was resolving merge conflicts. When encountering markers like <<<<<<< HEAD, =======, and >>>>>>> branch-name, I initially wasn't sure how to proceed. Now, I understand that I need to manually resolve the conflict by choosing the correct code, removing the conflict markers, and then committing the changes.
 Example of a more general merge conflict:
 
-
+~~~
 <<<<<<< HEAD
 // Code from your current branch
 function greet(name) {
@@ -28,7 +28,7 @@ function greet(name) {
   return `Hello, ${name}!`; // Resolved to use template literals
 }
 
-
+~~~
 Key takeaways:
 Detailed Notes: I've learned the importance of thorough note-taking to avoid forgetting crucial details.
 Resource Review: Regularly reviewing course materials is essential.
