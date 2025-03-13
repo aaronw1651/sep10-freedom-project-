@@ -1,4 +1,4 @@
-# Entry 2
+# GitHub Writeup
 Aaron Williams 
 ## Reflection:
 This unit on GitHub was incredibly valuable for learning how to collaborate on code. I now understand how to work effectively with others, which speeds up the development process. Key commands I learned were git add, git commit, and git push. These are essential for managing changes and updating repositories.
