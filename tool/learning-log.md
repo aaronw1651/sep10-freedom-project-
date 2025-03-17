@@ -16,7 +16,7 @@ Implemented components such as dropdown and Modal.
 Progress-
 Gained a better understanding of Bootstrap's utility classes for spacing, typography, and colors.
 Successfully created basic responsive layouts that adapt to different screen sizes..
-Improved consistency of web page design. Before i was struggling with the compent modal, bu after few youtube videos about it, it helped me fix my code and complete my assignment. 
+Improved consistency of web page design. Before i was struggling with the compent modal, but after few youtube videos about it, it helped me fix my code and complete my assignment. 
 
 Ex;
 ```
@@ -34,7 +34,7 @@ Ex;
   In this example is shown a Omni-man modal window(pop-up). I often had struggles with it not popping up at all.
 
 Challenges-
-Overriding Bootstrap's default styles to achieve custom designs without breaking responsiveness.
+Overriding Bootstrap's default styles to achieve custom designs without breaking responsivenes.
 Understanding the nuances of the grid system, especially when dealing with complex layouts.
 Making sure the components are accessible.
 
