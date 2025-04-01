@@ -57,8 +57,67 @@ Focus on improving accessibility of pages created with Bootstrap.
 
 
 
-### X/X/XX:
-* Text
+### 3/30/25:
+Tried:
+Bootstrap's grid system for responsive layouts.
+Integrated Bootstrap's carousel component for image gallery.
+Utilized Bootstrap's utility classes for styling and spacing.
+Used Bootstrap's navbar component.
+
+Progress:
+Improved the responsiveness of the website, ensuring it adapts to different screen sizes.
+Successfully implemented a dynamic image gallery using the Bootstrap carousel.
+Enhanced the visual presentation of the website using Bootstrap's styling capabilities.
+Improved the website's navigation.
+I have learned to use icons, and implement them into my html.
+```
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="./img/balloon-1.jpg" class="d-block w-100" alt="Image 1">
+        </div>
+        <div class="carousel-item">
+            <img src="./img/balloon-2.jpg" class="d-block w-100" alt="Image 2">
+        </div>
+        <div class="carousel-item">
+            <img src="./img/balloon-3.jpg" class="d-block w-100" alt="Image 3">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+```
+This snippet demonstrates the implementation of a Bootstrap carousel. The carousel class initiates the carousel functionality, and the carousel-item classes contain the images. The carousel-control-prev and carousel-control-next buttons allow users to navigate through the images. This component was easy to implement, and allowed for the gallery to be very clean and efficient.
+
+Challenges:
+Customizing Bootstrap's default styles to match the desired aesthetic.
+Understanding the proper use of the bootstrap components.
+
+A-ha moments:
+Realized the efficiency of Bootstrap's utility classes for rapid styling.
+Discovered the power of the Bootstrap grid system for creating responsive layouts.
+Understood how bootstrap components such as the navbar and carousel simplify web development.
+
+Questions you still have:
+What are the best practices for customizing Bootstrap's components for complex designs?
+How to handle complex layouts with bootstrap that include many different components.
+
+What you're going to try next:
+Explore Bootstrap's theming capabilities to create a custom design system.
+Investigate advanced layout techniques using the Bootstrap grid system.
+Focus on optimizing the website's performance and accessibility.
+Learn more about bootstrap's forms.
+
+links used -  https://www.youtube.com/watch?v=Esv4AqWC72E
+https://www.youtube.com/watch?v=qNifU_aQRio
+
+
 
 
 <!-- 
