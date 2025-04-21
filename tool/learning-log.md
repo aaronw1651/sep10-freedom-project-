@@ -117,6 +117,27 @@ Learn more about bootstrap's forms.
 links used -  https://www.youtube.com/watch?v=Esv4AqWC72E
 https://www.youtube.com/watch?v=qNifU_aQRio
 
+### 4/19/25:
+
+Learning Log: A-Frame for Media Production
+
+Key Takeaways:
+### A-Frame Simplifies VR Development: The video emphasizes how A-Frame allows you to create VR experiences for the web quickly and easily [00:07]. This confirms my initial impression of A-Frame's accessibility, even for those with basic web development skills.
+### 360° Images are a Core Feature: A-Frame makes it straightforward to incorporate 360° images into VR scenes. This is relevant to VisiRec, as it suggests a potential way to display captured environmental footage or create immersive workspaces.
+### HTML-Based Structure: The tutorial reinforces the HTML-based structure of A-Frame, which makes it easy to understand and modify scenes. The video outlines the steps of creating an HTML document [03:46] and integrating things that we haven’t learned  yet such as JavaScript [02:54] to build the VR environment.
+### Server Setup: The need to set up a simple server to display images [07:50] highlights a practical consideration when developing and testing A-Frame applications.
+Connection to VisiRec:
+### The ability to create 360° image environments could be useful for simulating the "life-size model" feature of VisiRec during video calls.
+### The simplicity of A-Frame aligns with the goal of rapid prototyping and iteration in the engineering design process for VisiRec.
+Next Steps:
+### Explore A-Frame's capabilities for handling video textures, particularly 360° video.
+### I have been looking at 3d models of contact lenses which is a main detail for my invention.
+
+### Experiment with user interactions within a 360° environment.
+ ###Links used - https://www.youtube.com/watch?v=TgN-WL2dpRY
+https://www.youtube.com/watch?v=mETucqeOmXA&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=2
+
+
 
 
 
