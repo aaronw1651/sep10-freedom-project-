@@ -10,7 +10,7 @@ My primary focus has been on mastering the fundamentals of A-Frame, moving from 
 
 ## Sources:
 Throughout this learning phase, online resources have been crucial. YouTube, in particular, has served as a significant source of tutorials and explanations, providing insights into A-Frame's capabilities and best practices for building environments and models. The specific videos that significantly contributed to my understanding include:
-How To Create A VR Experience With A-Frame
+
 <a href="https://www.youtube.com/watch?v=TgN-WL2dpRY&t=1s">How To Create A VR Experience With A-Frame</a>
 
 <a href="https://www.youtube.com/watch?v=ktjMCanKNLk">What Is A-Frame? (A-Frame Tutorial - WebVR)</a>
