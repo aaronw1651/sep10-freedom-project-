@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VR Billboard</title>
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <style>
+
+        body {
+            font-family: sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #87CEEB;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        #billboard-container {
+            margin-top: 20px;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>VR Billboard</h2>
+        <div id="billboard-container">
+            <a-scene embedded>
+                <a-plane id="billboard" height="3" width="5" src="Visi3d.png" color="#FFFFFF" position="0 1.5 -5"></a-plane>
+                <a-sky color="#fff"></a-sky>
+            </a-scene>
+        </div>
+    </div>
+
+</body>
+</html>
+
