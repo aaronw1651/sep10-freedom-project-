@@ -40,4 +40,21 @@
 
 </body>
 </html>
+<style>
 
+    @keyframes float {
+        0% { transform: translateY(0); }
+        50% { transform: translateY(100px); }
+        70% { transform: translateX(200px); }
+        100% { transform: translateY(200); }
+    }
+    @keyframes pulse {
+        0% { box-shadow: 0 0 30px 5px #87ceeb44; }
+        50% { box-shadow: 0 0 60px 15px #ffb34788; }
+        100% { box-shadow: 0 0 30px 5px #87ceeb44; }
+    }
+    #billboard-container {
+        animation: float 3s ease-in-out infinite, pulse 4s ease-in-out infinite;
+        border-radius: 20px;
+    }
+</style>
