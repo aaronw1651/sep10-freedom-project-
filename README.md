@@ -4,9 +4,9 @@ by **X**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of Media Production.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study AI in order to help me make my website.
 
 ## Links
 
@@ -16,7 +16,16 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X
 
 ## Implications
 ##### PROS
-* 
+<ul>
+<li>Accessibility for everyday users: Visi-Rec, with its built-in AI, would democratize high-quality video creation, making it accessible to a wider audience beyond professionals.</li>
+
+<li>Streamlined Workflow: The integration of recording, editing, and AI assistance directly into a contact lens would significantly simplify the media production process, reducing the need for multiple devices and software.</li>
+
+<li>Innovative Applications: Beyond media production, the AI in Visi-Rec could assist with various daily tasks (like grocery lists) and be applied in fields such as architecture and chemistry, showcasing its versatility.</li>
+
+<li>Enhanced Storytelling: By making Hollywood-level visual effects and seamless editing readily available, users could create more immersive and captivating content.</li>
+</ul>
+
 ##### CONS
 * 
 
