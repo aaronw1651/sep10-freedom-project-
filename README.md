@@ -10,9 +10,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study AI 
 
 ## Links
 
-[Product]()
+[Product](https://aaronw1651.github.io/sep10-freedom-project-/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1b1r-cuDaqQziMtbPHsqkQYu5anV02Ij0PMbv-wZirEM/edit?slide=id.p#slide=id.p)
 
 ## Implications
 ##### PROS
@@ -27,8 +27,19 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study AI 
 </ul>
 
 ##### CONS
-* 
+<ul>
+<li>Privacy Concerns: A device capable of constant recording and data collection raises significant privacy issues for both the user and those around them.</li>
 
+<li>Ethical Implications of AI-edited content: The ease of creating highly realistic but potentially manipulated footage could lead to the spread of misinformation or deepfakes.</li>
+
+<li>Technical Hurdles and Miniaturization: Developing a contact lens with advanced recording, processing, and AI capabilities, along with sufficient battery life, presents immense engineering challenges.</li>
+
+<li>Health and Safety: Long-term use of electronic contact lenses could pose risks to eye health.</li>
+
+<li>Cost and Accessibility: Initial costs for such advanced technology would likely be prohibitive for many, limiting its widespread adoption despite the stated goal of accessibility.</li>
+
+<li>Dependence on Technology: Over-reliance on an AI for editing and daily tasks might diminish human creative skills and critical thinking.</li>
+</ul>
 
 ## Blog
 Below you will find my blog about how I made my project.
